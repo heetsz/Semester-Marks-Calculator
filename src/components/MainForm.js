@@ -35,7 +35,7 @@ function MainForm(props) {
     const ese = parseFloat(marks[7]) || 0;
 
     const total =
-      mse / 2 + ise + 
+      (mse * 20 / 30) + ise + 
     (ese * 60/100);
 
     setTotalMarks(total); // Update total marks
