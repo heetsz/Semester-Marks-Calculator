@@ -13,3 +13,4 @@ The **Credit-Based Marks Calculator** is a React-based web application that calc
 - Dynamic calculation of total marks using the formula:
   ```text
   Total Marks = MSE / 2 + (ISE Lab * 20 / 50) + (ISE Theory * 15 / 20) + ESE
+Try It Out: https://semester-marks-calculator.vercel.app/
